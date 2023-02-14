@@ -1,4 +1,3 @@
 hello git
 todat is friday date 10th feb
-good morning all
-test data
+adding line from remote
